@@ -1,0 +1,6 @@
+{
+  "name": "Memories",
+  "description": "This isn't where your photos are stored. This is where your memories live.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
